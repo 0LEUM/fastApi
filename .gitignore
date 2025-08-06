@@ -1,0 +1,5 @@
+__pychache__
+blog-env
+.venv
+blog.db
+blog\__pycache__
